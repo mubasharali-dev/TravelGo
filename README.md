@@ -1,4 +1,8 @@
-# Travel-Site-Frontend
+# TravelGo-Frontend
+
+# Portfolio Deployed Link
+
+- **Link:** <a href="https://travelgo.vercel.app/" target="_blank">Click here 🔥</a>
 
 ## Getting Started with Create React App
 
@@ -40,3 +44,17 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+
+
+## Connect with Me
+
+Feel free to connect with me on social media or via email to stay updated on my latest projects and activities:
+
+- **GitHub:** <a href="https://github.com/mubasharali-dev" target="_blank">@mubasharali-dev</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/mubasharali-dev/" target="_blank">Mubashar Ali</a>
+- **Email:** <a href="mailto:mubashar.hashmat@gmail.com" target="_blank">mubashar.hashmat@gmail.com</a>
+
+Don't hesitate to reach out if you have any questions, want to collaborate, or just want to say hi! 😄
+
+
